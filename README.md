@@ -1,4 +1,4 @@
- 👋 <h3>Hey there! I'm Babatunde Olayinka</h3>
+<h3>👋 Hey there! I'm Babatunde Olayinka</h3>
 
 AI/ML Engineer | Python Developer | Data Scientist | Physiology Student | Health Tech Enthusiast
 
