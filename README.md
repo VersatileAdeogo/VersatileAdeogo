@@ -15,11 +15,11 @@
 
 ### 🧰 Skills
 
-**Technical Skills**
+- **Technical Skills**
 
 Programming | Data collection | Web scraping | Data cleaning | Data visualization | Feature engineering | Data augmentation | Exploratory data analysis | Time series analysis | Statistical analysis | Supervised learning | Unsupervised learning | Deep learning | Transfer learning | Artificial neural networks | Recurrent neural networks | Convoluted neural networks | Model quantization | Computer Vision | Natural language processing | MLOps
 
-**Soft Skills**
+- **Soft Skills**
 
 Communication | Presentation | Teamwork | Adaptability | Organization | Time management | Project management | Problem solving | Analytical thinking | Structured thinking
 
@@ -46,10 +46,16 @@ Jupyter | Google Colab | Git & GitHub | VScode | PowerBI | Excel | Database | G-
 
 - **[Simple Health App]()**  
   Develop a simple streamlit **health app** with four main features: **symptom checker, health tip generator, bmi calculator and sleep tracker.**
-  
+
+--- 
+
+### Memberships
+- Data Science Nigeria (DSN), Member
+- Biomedical Research in Artificial Intelligence and Neuroimaging for Advanced Innovation and Diagnostics (Brain-Aid), Member.
+- Medics in Tech (MIT), Member.
 ---
 
-### 🔗 Let's Connect!
+### Let's Connect!
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/babatundeolayinka)  
 - [📊 Kaggle](https://www.kaggle.com/babatundeoadeogo)  
