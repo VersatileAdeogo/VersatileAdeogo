@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm [Babatunde Olayinka] 👋</h1>
+<h3 align="center">Hey there! I'm Babatunde Olayinka 👋</h3>
 <h3 align="center">🚀 AI/ML Engineer | Python Developer | Data Scientist | Physiology Student | Health Tech Enthusiast</h3>
 
 ---
@@ -16,9 +16,11 @@
 ### 🧰 Skills
 
 **Technical Skills**
+
 Programming | Data collection | Web scraping | Data cleaning | Data visualization | Feature engineering | Data augmentation | Exploratory data analysis | Time series analysis | Statistical analysis | Supervised learning | Unsupervised learning | Deep learning | Transfer learning | Artificial neural networks | Recurrent neural networks | Convoluted neural networks | Model quantization | Computer Vision | Natural language processing | MLOps
 
 **Soft Skills**
+
 Communication | Presentation | Teamwork | Adaptability | Organization | Time management | Project management | Problem solving | Analytical thinking | Structured thinking
 
 ### 💻 Tech Stack & Tools
@@ -39,7 +41,7 @@ Jupyter | Google Colab | Git & GitHub | VScode | PowerBI | Excel | Database | G-
 - **[Heart Disease Prediction]()**  
  **Classification model** to predict the risk of developing heart disease in 10 years time.
 
-- **[🫁 Medical Insurance Prediction]()**  
+- **[Medical Insurance Prediction]()**  
   **Regression model** to predict medical health insurance of patients.
 
 - **[Simple Health App]()**  
