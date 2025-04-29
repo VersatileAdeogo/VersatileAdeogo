@@ -1,5 +1,6 @@
 <h3 align="center">Hey there! I'm Babatunde Olayinka 👋</h3>
-<h3 align="center">🚀 AI/ML Engineer | Python Developer | Data Scientist | Physiology Student | Health Tech Enthusiast</h3>
+
+AI/ML Engineer | Python Developer | Data Scientist | Physiology Student | Health Tech Enthusiast
 
 ---
 
