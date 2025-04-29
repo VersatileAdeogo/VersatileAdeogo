@@ -39,10 +39,10 @@ Jupyter | Google Colab | Git & GitHub | VScode | PowerBI | Excel | Database | G-
 
 ### 🧪 Projects
 
-- **[Heart Disease Prediction]()**  
+- **[Heart Disease Prediction](https://github.com/VersatileAdeogo/cacyof-skillup-program-projects/tree/main/heart_disease)**  
  **Classification model** to predict the risk of developing heart disease in 10 years time.
 
-- **[Medical Insurance Prediction]()**  
+- **[Medical Insurance Prediction](https://github.com/VersatileAdeogo/cacyof-skillup-program-projects/tree/main/medical_insurance)**  
   **Regression model** to predict medical health insurance of patients.
 
 - **[Simple Health App]()**  
